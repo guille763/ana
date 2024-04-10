@@ -2,3 +2,6 @@ guille
 ada 
 ana 
 bianca
+milo 
+rocky
+tigre
