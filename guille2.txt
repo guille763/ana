@@ -3,5 +3,4 @@ atletico
 river 
 plate
 le gano a nacional
-gano el 
-partido 
+el partido 
